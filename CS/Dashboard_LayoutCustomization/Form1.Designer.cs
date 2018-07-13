@@ -25,7 +25,6 @@
         private void InitializeComponent() {
             this.components = new System.ComponentModel.Container();
             this.dashboardViewer1 = new DevExpress.DashboardWin.DashboardViewer(this.components);
-            this.btnUpdateLayout = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dashboardViewer1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -34,29 +33,17 @@
             this.dashboardViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dashboardViewer1.Location = new System.Drawing.Point(0, 0);
             this.dashboardViewer1.Name = "dashboardViewer1";
-            this.dashboardViewer1.PrintingOptions.DocumentContentOptions.FilterState = DevExpress.DashboardWin.DashboardPrintingFilterState.None;
-            this.dashboardViewer1.Size = new System.Drawing.Size(890, 459);
+            this.dashboardViewer1.Size = new System.Drawing.Size(784, 561);
             this.dashboardViewer1.TabIndex = 0;
-            // 
-            // btnUpdateLayout
-            // 
-            this.btnUpdateLayout.Location = new System.Drawing.Point(0, 0);
-            this.btnUpdateLayout.Name = "btnUpdateLayout";
-            this.btnUpdateLayout.Size = new System.Drawing.Size(105, 23);
-            this.btnUpdateLayout.TabIndex = 1;
-            this.btnUpdateLayout.Text = "Update Layout";
-            this.btnUpdateLayout.UseVisualStyleBackColor = true;
-            this.btnUpdateLayout.Click += new System.EventHandler(this.btnUpdateLayout_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(890, 459);
-            this.Controls.Add(this.btnUpdateLayout);
+            this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.dashboardViewer1);
             this.Name = "Form1";
-            this.Text = "Dashboard Viewer";
+            this.Text = "Dashboard Layout Modification Example";
             ((System.ComponentModel.ISupportInitialize)(this.dashboardViewer1)).EndInit();
             this.ResumeLayout(false);
 
@@ -65,7 +52,6 @@
         #endregion
 
         private DevExpress.DashboardWin.DashboardViewer dashboardViewer1;
-        private System.Windows.Forms.Button btnUpdateLayout;
     }
 }
 
