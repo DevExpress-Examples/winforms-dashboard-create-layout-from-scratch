@@ -10,7 +10,7 @@ The following steps are taken to create a new layout:
 3. A **root** layout group is created. This group contains the previously created group and another layout item.
 4. The root layout group is assigned to the <a href="https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.Dashboard.LayoutRoot">Dashboard.LayoutRoot</a> property.
 
-This example also demonstrates how to swap layout items using the <a href="https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardLayoutNode.MoveRight.overloads">MoveRight</a> method, save and restore the layout using the <a href="https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.SaveDashboardLayout(System.String)">SaveDashboardLayout</a> and <a href="https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.RestoreDashboardLayout(System.String)">RestoreDashboardLayout</a> methods.
+This example also demonstrates how to swap layout items using the <a href="https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardLayoutNode.MoveRight.overloads">MoveRight</a> method, save and restore the layout using the <a href="https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.SaveDashboardLayout(System.String)">SaveDashboardLayout</a> and <a href="https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.LoadDashboardLayout(System.String)">LoadDashboardLayout</a> methods.
 
 ![](https://github.com/DevExpress-Examples/how-to-create-a-dashboard-layout-from-scratch-e5206/blob/18.1.4%2B/images/how-to-modify-dashboard-layout.png)
 
