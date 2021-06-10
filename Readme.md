@@ -24,7 +24,7 @@ The following steps are taken to create a new layout:
 
 This example also demonstrates how to use the [DashboardLayoutNode.MoveRight](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardLayoutNode.MoveRight.overloads) method to swap layout items, save and restore the layout with the [SaveDashboardLayout](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.SaveDashboardLayout(System.String)) and [LoadDashboardLayout](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.LoadDashboardLayout(System.String)) methods.
 
-**See also:**
+## Documentation
 
 * [Dashboard Layout](https://docs.devexpress.com/Dashboard/15617)
 * [Designing Dashboard Items](https://docs.devexpress.com/Dashboard/12141)
