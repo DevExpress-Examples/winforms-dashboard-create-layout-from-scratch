@@ -1,4 +1,4 @@
-# How to Modify Dashboard Layout in Code
+# Dashboard for WinForms - How to Modify Dashboard Layout in Code
 
 
 The following example demonstrates how to modify <a href="https://docs.devexpress.com/Dashboard/116693/main-features/dashboard-layout">dashboard layout</a> in code.
