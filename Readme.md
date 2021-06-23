@@ -1,5 +1,10 @@
-# Dashboard for WinForms - How to Modify Dashboard Layout in Code
+<!-- default file list -->
+*Files to look at*:
 
+* [Form1.cs](./CS/Dashboard_LayoutCustomization/Form1.cs)
+<!-- default file list end -->
+
+# Dashboard for WinForms - How to Modify Dashboard Layout in Code
 
 The following example demonstrates how to modify <a href="https://docs.devexpress.com/Dashboard/116693/main-features/dashboard-layout">dashboard layout</a> in code.
 
