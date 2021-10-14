@@ -3,11 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E5206)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [Form1.cs](./CS/Dashboard_LayoutCustomization/Form1.cs) (VB: [Form1.cs](./VB/Dashboard_LayoutCustomization/Form1.vb))
-<!-- default file list end -->
 
 # Dashboard for WinForms - How to Modify Dashboard Layout in Code
 
@@ -33,6 +28,12 @@ The following steps are taken to create a new layout:
 4. Assign the root group to the [Dashboard.LayoutRoot](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.Dashboard.LayoutRoot) property.
 
 This example also demonstrates how to use the [DashboardLayoutNode.MoveRight](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardLayoutNode.MoveRight.overloads) method to swap layout items, save and restore the layout with the [SaveDashboardLayout](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.SaveDashboardLayout(System.String)) and [LoadDashboardLayout](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.LoadDashboardLayout(System.String)) methods.
+
+<!-- default file list -->
+## Files to look at
+
+* [Form1.cs](./CS/Dashboard_LayoutCustomization/Form1.cs) (VB: [Form1.cs](./VB/Dashboard_LayoutCustomization/Form1.vb))
+<!-- default file list end -->
 
 ## Documentation
 
