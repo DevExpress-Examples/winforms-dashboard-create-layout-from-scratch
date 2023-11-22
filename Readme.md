@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Dashboard for WinForms - How to Modify Dashboard Layout in Code
+# BI Dashboard for WinForms - How to Modify Dashboard Layout in Code
 
-The following example demonstrates how to modify <a href="https://docs.devexpress.com/Dashboard/116693/main-features/dashboard-layout">dashboard layout</a> in code.
+The following example demonstrates how to modify [dashboard layout](https://docs.devexpress.com/Dashboard/116693/main-features/dashboard-layout) in code.
 
 ![](./images/screenshot.png)
 
@@ -29,11 +29,9 @@ The following steps are taken to create a new layout:
 
 This example also demonstrates how to use the [DashboardLayoutNode.MoveRight](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardLayoutNode.MoveRight.overloads) method to swap layout items, save and restore the layout with the [SaveDashboardLayout](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.SaveDashboardLayout(System.String)) and [LoadDashboardLayout](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.LoadDashboardLayout(System.String)) methods.
 
-<!-- default file list -->
-## Files to look at
+## Files to Review
 
 * [Form1.cs](./CS/Dashboard_LayoutCustomization/Form1.cs) (VB: [Form1.cs](./VB/Dashboard_LayoutCustomization/Form1.vb))
-<!-- default file list end -->
 
 ## Documentation
 
